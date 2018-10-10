@@ -1,5 +1,8 @@
 # react-native-redux-crypto-tracker
 
+## Links
+
+[Let’s Build: Cryptocurrency Native Mobile App With React Native + Redux](https://medium.com/react-native-training/bitcoin-ripple-ethereum-price-checker-with-react-native-redux-e9d076037092)
 
 ## Install
 
